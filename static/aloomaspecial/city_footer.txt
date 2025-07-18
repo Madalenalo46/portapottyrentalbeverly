@@ -1,0 +1,51 @@
+   <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What comes inside your standard event-grade porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Every event-grade unit is delivered spotlessly clean and comes fully stocked with toilet paper and a hand sanitizer dispenser.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What if I have a problem during my rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You call us, and a member of our team will answer. We are responsive and committed to resolving any issue quickly and professionally.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is it really better for the environment to use a porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. In terms of water conservation and preventing localized ground pollution, a professionally serviced portable toilet is a significantly more eco-friendly option for temporary events.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> How much does a porta potty rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The porta potty rental cost per day depends on the type of unit and rental duration. Our portable restroom rental prices are competitive, and we provide clear, upfront quotes.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you also offer standard portable toilets for events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes! While we are known for our specialty units, we offer a full range of standard and deluxe porta potty rentals for any event, party, or wedding.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> How can a restroom trailer be water-efficient?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our mobile washroom trailers are equipped with modern, low-flow toilets and sensor-activated faucets that dispense a measured amount of water, making them far more efficient than older, traditional plumbing.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+   
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
